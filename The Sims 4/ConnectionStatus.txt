@@ -1,0 +1,66 @@
+ConnectivityStatus		Localtime: 2016/11/02 23:08:37		Utc: 2016/11/02 16:08:37
+Host name is AquariusPC.
+	1) Address: 192.168.239.56
+
+ShardAddress: 159.153.74.8
+ProtocolVersion: 0
+ServerBuildVersion: 
+SkuVersion: 1.5.139.1020
+Current Master Config url: http://sims4cdn.ea.com/content.ts4/master/live/masterconfig.txt
+Time left to sync: 299 secs
+Current Configuration:
+BugSentry: https://gen4.reports.tools.gos.ea.com/bugsentry
+TelemetryServerName: https://river.data.ea.com
+TelemetryServiceName: pc/sims4-2013-pc-retail
+TelemetryServerPort: 443
+SpotlightURL: https://adsrv-sims4.ea.com/api/20120529/
+SpotlightCdnContentUrl: http://sims4cdn.ea.com/content.ts4/master/spotlight/
+
+Kill Switches:
+0 SERVICE_FLAG_LOGIN
+0 SERVICE_FLAG_EXCHANGE_ALONE
+0 SERVICE_FLAG_SOCIAL_ALONE
+0 SERVICE_FLAG_MTX_ALONE
+0 SERVICE_FLAG_RECOMMENDATION_ENGINE_ALONE
+0 SERVICE_FLAG_TELEMETRY
+0 SERVICE_FLAG_FACEBOOK
+0 SERVICE_FLAG_SPOTLIGHT
+0 SERVICE_FLAG_BUGSENTRY
+URL:
+
+Connectivity Checklist:
+0 kCasConnected
+0 kZoneConnected
+0 kLiveEditEnabled
+0 kOnlineServicesPermanentlyUnavailable
+1 kOnlineServicesTemporarilyUnavailable
+0 kOnlineServicesUserDisabled
+1 kOnlineServicesAutoReconnectEnabled
+1 kOriginEnabled
+0 kDisableOriginArg
+0 kIsUserUnderAge
+0 kConnectFailure
+1 kConnectingToOnlineServices
+0 kConnectedToOnlineServices
+0 kJustGotOnlineServices
+0 kJustLostOnlineServices
+1 kInternetConnected
+1 kOriginAppConnected
+0 kCDNWebServerConnected
+0 kOriginOnlineMode
+0 kGotOriginEntitlements
+0 kLoginServerConnected
+0 kSims4GameLaunch
+0 kSims4Authorized
+0 kUepServerConnected
+0 kExchangeServerConnected
+0 kSocialServerConnected
+0 kMtxServerConnected
+0 kUserGalleryBanned
+0 kSetUserDataForConnections
+0 kReadyToPlayGame
+
+Client State:kConnecting
+Connection State:STATE_CONNECTING
+
+

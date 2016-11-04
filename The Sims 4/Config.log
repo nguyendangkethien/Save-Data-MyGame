@@ -1,0 +1,179 @@
+=== Application info ===
+Name:            Sims4
+Version:         
+Build:           Release
+=== Rating info ===
+GPU: 3 GPU Memory: 1 CPU: 3 RAM: 3 CPU Speed: 2494 Threading: 3
+Adjusted CPU: 3125 RAM: 3977 Adjusted RAM: 3465 Cores: 2
+=== Machine info ===
+OS version:      Windows 8.1 6.3.9600
+OS prod type:    
+OS major ver:    6
+OS minor ver:    3
+OS SP major ver: 
+OS SP minor ver: 
+OS is 64Bit:     1
+CPU:             GenuineIntel
+    Brand:       Intel(R) Core(TM) i5-4200M CPU @ 2.50GHz
+    Family:      6
+    Model:       12
+    Cores:       2
+    HT:          1
+    x64:         1
+Memory:          3977MB
+Free memory:     1932MB
+VA space:        4095MB
+User:            Aquarius PC
+Computer:        AQUARIUSPC
+=== Graphics device info ===
+Number:          0
+Name (driver):   Intel(R) HD Graphics 4600
+Name (database): 4th Gen Intel(R) Core processor graphics - Mobile Haswell GT2 [Found: 1, Supported: 1]
+Vendor:          Intel
+Chipset:         Vendor: 8086, Device: 0416, Board: 1942103c, Chipset: 0006
+Driver:          igdumdim32.dll, Version: 10.18.15.4268, GUID: D7B78E66-4756-11CF-2063-4D39BBC2C735
+Driver version:  4268
+Monitor:         \\.\DISPLAY1
+Texture memory:  112MB
+Vertex program:  3.0
+Pixel program:   3.0
+Hardware TnL:    1
+Opt. features:   +sab +a8l8 +rgba16f +r32f +bc4 +bc5 -rawz +intz
+=== Options ===
+NumBoots 0
+LightingQuality 1
+GeneralReflections 1
+ObjectQuality 1
+VisualEffects 1
+PostProcessing 0
+UseUncompressedTextures 0
+TerrainQuality 1
+EdgeSmoothing 0
+SimQuality 1
+ViewDistance 3
+AdvancedRendering 1
+VerticalSync 0
+UseHiDpi 1
+UiScale 100
+ResolutionWidth 1366
+ResolutionHeight 705
+ResolutionRefresh 0
+SceneResolution 3
+VisualQuality 2
+FullScreen 0
+WindowedFullScreen 0
+FrameRateLimit 200
+AudioQuality 3
+AudioOutputMode 1
+MasterLevel 255
+VoiceLevel 255
+SoundFXLevel 255
+MusicLevel 255
+MenuMusicLevel 255
+UISoundSXLevel 255
+AmbientLevel 255
+FocusMute 1
+MoodChange 1
+VoiceMute 0
+SoundFXMute 0
+MusicMute 0
+UIMute 0
+AmbientMute 0
+MatchSpeedStereoMusic 1
+EdgeScrolling 1
+EdgeScrollingWarning 1
+EnableTelemetry 1
+InvertHorizontalRotation 0
+InvertVerticalRotation 0
+AdvancedCamera 0
+ScreenshotPostUI 0
+VideoCaptureSize 1
+VideoCaptureQuality 2
+VideoCaptureSound 1
+VideoCaptureTime 0
+VideoCaptureHideUI 1
+AutonomyHousehold 3
+AutonomyDisabledForActiveSim 0
+SimsSetAgeSpeed 1
+SimsSetAgingEnabled 2
+TradSocialMenuEnabled 0
+MemoriesHelperEnabled 1
+AutoAgeUnplayed 1
+NPCReplacement 1
+TutorialEnabled 1
+ShowModListStartup 1
+ScriptModsEnabled 0
+ShowOnlineNotifications 1
+AutoReconnect 1
+OnlineAccess 1
+DisableComments 0
+HideReportedContent 0
+=== Default Options ===
+NumBoots 4294967295
+LightingQuality 1
+GeneralReflections 1
+ObjectQuality 1
+VisualEffects 1
+PostProcessing 0
+UseUncompressedTextures 0
+TerrainQuality 1
+EdgeSmoothing 0
+SimQuality 1
+ViewDistance 3
+AdvancedRendering 1
+VerticalSync 0
+UseHiDpi 1
+UiScale 100
+ResolutionWidth 1600
+ResolutionHeight 900
+ResolutionRefresh 4294967295
+SceneResolution 3
+VisualQuality 2
+FullScreen 0
+WindowedFullScreen 0
+FrameRateLimit 200
+AudioQuality 3
+AudioOutputMode 1
+MasterLevel 255
+VoiceLevel 255
+SoundFXLevel 255
+MusicLevel 255
+MenuMusicLevel 255
+UISoundSXLevel 255
+AmbientLevel 255
+FocusMute 1
+MoodChange 1
+VoiceMute 0
+SoundFXMute 0
+MusicMute 0
+UIMute 0
+AmbientMute 0
+MatchSpeedStereoMusic 1
+EdgeScrolling 1
+EdgeScrollingWarning 1
+EnableTelemetry 1
+InvertHorizontalRotation 0
+InvertVerticalRotation 0
+AdvancedCamera 0
+ScreenshotPostUI 0
+VideoCaptureSize 1
+VideoCaptureQuality 2
+VideoCaptureSound 1
+VideoCaptureTime 0
+VideoCaptureHideUI 1
+AutonomyHousehold 3
+AutonomyDisabledForActiveSim 0
+SimsSetAgeSpeed 1
+SimsSetAgingEnabled 2
+TradSocialMenuEnabled 0
+MemoriesHelperEnabled 1
+AutoAgeUnplayed 1
+NPCReplacement 1
+TutorialEnabled 1
+ShowModListStartup 1
+ScriptModsEnabled 0
+ShowOnlineNotifications 1
+AutoReconnect 1
+OnlineAccess 1
+DisableComments 0
+HideReportedContent 0
